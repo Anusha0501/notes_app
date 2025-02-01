@@ -1,5 +1,24 @@
-# notes_app
-Efficient JavaScript-powered To-Do Notes App for streamlined task management
-Crafted with guidance from tutorials and refined through personal exploration, this JavaScript To-Do Notes App is a testament to my growing expertise in programming. Designed for personal use, it's not just a tool but a journey in mastering JavaScript
+# NoteNexus  
 
-To visit the website: https://anusha0501.github.io/notes_app/
+**NoteNexus** is a simple and efficient note-taking web app built using **HTML, CSS, and JavaScript**. It provides a clean and minimalist interface to create, manage, and organize notes easily.  
+
+## 🚀 Features  
+- Create and delete notes  
+- Edit notes in real-time  
+- User-friendly and responsive design  
+
+## 🔧 Technologies Used  
+- **HTML** - Structure  
+- **CSS** - Styling  
+- **JavaScript** - Functionality  
+
+## 📂 Usage  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/NoteNexus.git
+   ```
+2. Open `index.html` in a browser  
+
+## 🔮 Future Enhancements  
+- Local storage to save notes  
+- Categorization and search functionality  
